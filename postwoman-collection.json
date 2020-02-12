@@ -1,0 +1,27 @@
+[
+  {
+    "name": "My Collection",
+    "folders": [],
+    "requests": [
+      {
+        "url": "https://httpbin.org",
+        "path": "/get",
+        "method": "GET",
+        "auth": "None",
+        "httpUser": "",
+        "httpPassword": "",
+        "passwordFieldType": "password",
+        "bearerToken": "",
+        "headers": [],
+        "params": [],
+        "bodyParams": [],
+        "rawParams": "",
+        "rawInput": false,
+        "contentType": "",
+        "requestType": "",
+        "name": "Test",
+        "collection": 0
+      }
+    ]
+  }
+]
